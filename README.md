@@ -7,7 +7,7 @@ I'm klvna, a university student exploring the world of AI.<br>
 I have a fondness for reading books, and I'm based in Seoul, South Korea.  </p>
 
 <br>
-<br>
+
 
 <h2>Education & Project</h2>
 
@@ -15,7 +15,7 @@ I have a fondness for reading books, and I'm based in Seoul, South Korea.  </p>
 - [GDSC] 2nd term_Core Member (2023.09.07~2024.02.28) <br>
 
 <br>
-<br>
+
 
 <h2>Skill </h2>
 <!-- Baekjoon -->
