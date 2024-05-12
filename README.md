@@ -1,4 +1,4 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=klvna&fontAlign=80&fontAlignY=40&color=gradient" >
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Klvna&fontAlign=80&fontAlignY=40&color=gradient" >
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h2>
@@ -7,7 +7,15 @@ I'm klvna, a university student exploring the world of AI.<br>
 I have a fondness for reading books, and I'm based in Seoul, South Korea.  </p>
 
 <br>
+<br>
 
+<h2>Education & Project</h2>
+
+- [GDSC] 1st term_Member (2022.09.02~2023.09.03) <br>
+- [GDSC] 2nd term_Core Member (2023.09.07~2024.02.28) <br>
+
+<br>
+<br>
 
 <h2>Skill </h2>
 <!-- Baekjoon -->
