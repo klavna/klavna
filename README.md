@@ -18,14 +18,25 @@ I have a fondness for reading books, and I'm based in Seoul, South Korea.  </p>
 
 
 <h2>Skill </h2>
+&nbsp;&nbsp; : vailable skills & the art one has dealt with<br>  
 <!-- Baekjoon -->
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmldud1122" width="340">   
 
 <p>
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img alt="C++" src ="https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Dart&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-512BDB?style=flat-square&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1EB?style=flat-square&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Native-61DAFB?style=flat-square&logo=React-Native&logoColor=white"/>
+  <br>
+  
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  
 </p>
 
  
