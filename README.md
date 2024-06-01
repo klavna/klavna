@@ -13,7 +13,7 @@ I have a fondness for reading books, and I'm based in Seoul, South Korea.  </p>
 
 - [GDSC] 1st term_Member (2022.09.02~2023.09.03) <br>
 - [GDSC] 2nd term_Core Member (2023.09.07~2024.02.28) <br>
-- Dong-A UniversityDevDay - 
+- Dong-A UniversityDevDay - [link](https://github.com/klavna/Improve_Smart_Crossroads)
 
 <br>
 
