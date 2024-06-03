@@ -4,7 +4,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h2>
 <p>Welcome to my page! </br>
 I'm klvna, a university student exploring the world of AI.<br>
-I have a fondness for reading books, and I'm based in Seoul, South Korea.  </p>
+I have a fondness for reading books, and I'm based in Seoul, South Korea.  </p> 
 
 <br>
 
@@ -42,5 +42,5 @@ I have a fondness for reading books, and I'm based in Seoul, South Korea.  </p>
 
  
  <br></br>
-
+<p></p>
  
