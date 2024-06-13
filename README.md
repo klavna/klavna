@@ -40,7 +40,7 @@ I have a fondness for reading books, and I'm based in Seoul, South Korea.  </p>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  
 </p>
 
- 
+<br>
 
 
  
