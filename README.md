@@ -3,12 +3,12 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h2>
 <p>Welcome to my page! </br>
-Hello, I am Kwon klvna, a junior developer with the nickname "Bear." 
-I am growing as an AI researcher through various extracurricular activities and continuous learning. 
-My nickname comes from the recognition of those around me for silently accomplishing numerous challenging goals, both big and small.
+Hello, I am Kwon klvna, a junior developer with the nickname "Bear." <br>
+I am growing as an AI researcher through various extracurricular activities and continuous learning. <br>
+My nickname comes from the recognition of those around me for silently accomplishing numerous challenging goals, both big and small. <br>
 
-My motto is "Never give up on the task at hand and complete it to the end." 
-This principle has earned me a reputation as a responsible person, starting from my first social experience as a non-commissioned officer and continuing through my college assignments and projects.
+My motto is "Never give up on the task at hand and complete it to the end." <br>
+This principle has earned me a reputation as a responsible person, starting from my first social experience as a non-commissioned officer and continuing through my college assignments and projects. <br>
 
 I have a deep interest in generative AI and aim to develop AI solutions that can contribute to society.  </p> 
 
