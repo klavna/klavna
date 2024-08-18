@@ -12,7 +12,7 @@ This principle has earned me a reputation as a responsible person, starting from
 
 I have a deep interest in generative AI and aim to develop AI solutions that can contribute to society.  </p> 
 
-
+ 
 <br>
 
 ##  Work Experience.
