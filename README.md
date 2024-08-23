@@ -23,6 +23,10 @@ I have a deep interest in generative AI and aim to develop AI solutions that can
 - [Recipe recommendation using computer vision](https://github.com/klavna/CARE)(2023.08~2023.08)
 - [2024 Korean ITS Society Spring Conference] ‘Intersection Signal System Improvement’ Project (✨Encouragement Award)
 - [2023 GDSC Busan Region Hackathon] “Senior job recommendation application” (✨Grand Prize)
+- [2024 SW-centered university digital competition - AI] "Fake voice detection and detection of generative AI"(Sponsored Company Award)
+- Coursera Deep Learning Specialization Course Completion
+- [2024 Google Machine Learning Bootcamp](2024.09~)
+
 
 
 <br>
