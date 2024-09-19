@@ -1,4 +1,4 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Klvna&fontAlign=80&fontAlignY=40&color=gradient" >
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Klavna&fontAlign=80&fontAlignY=40&color=gradient" >
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h2> 
