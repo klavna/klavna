@@ -11,7 +11,7 @@ My nickname comes from the recognition of those around me for silently accomplis
 My motto is "Never give up on the task at hand and complete it to the end." <br>
 This principle has earned me a reputation as a responsible person, starting from my first social experience as a non-commissioned officer and continuing through my college assignments and projects. <br>
 
-I have a deep interest in generative AI and aim to develop AI solutions that can contribute to society.  </p> 
+I have a deep interest in 3D Computer Vision and aim to develop AI solutions that can contribute to society.  </p> 
 
  
 <br>
